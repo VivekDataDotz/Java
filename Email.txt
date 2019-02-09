@@ -1,1 +1,3 @@
 This is checked email id
+
+And then try Git With Jira Integration
