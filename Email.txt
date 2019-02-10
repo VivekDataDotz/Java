@@ -1,3 +1,8 @@
 This is checked email id
 
+<<<<<<< HEAD
 Sedcond Checking
+=======
+And then try Git With Jira Integration
+This is Second Time
+>>>>>>> d854da30ceed6a33ac4d526b2f20aab66bb64398
